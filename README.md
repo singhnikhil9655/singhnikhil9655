@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering student at **ABESIT**
-- 🎨 Frontend developer who enjoys building clean, interactive interfaces
+- 🎨 Full Stack developer who enjoys building clean, interactive interfaces
 - 🧩 Practicing **Data Structures & Algorithms** on CodeChef
 - 🏆 Regular hackathon participant
 - 🌐 Currently building my **personal developer portfolio**
